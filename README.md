@@ -30,10 +30,10 @@ Witty Whirl is an amazing, real-time chat application designed to connect people
 
 Note: The cloud values must be from Cloudinary, which is where we host our images.
 
-7th - Open up your PostgresSQL server and create a database called "witty_whirl". So just copy paste this code in and execute it
+4th - Open up your PostgresSQL server and create a database called "witty_whirl". So just copy paste this code in and execute it
 
 CREATE DATABASE witty_whirl;
 
-8th - Type the following command "npm run start" to start application
+5th - Type the following command "npm run start" to start application
 
 DONE
